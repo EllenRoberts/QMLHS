@@ -1,0 +1,44 @@
+"ID","Book","Chapters","Word_total","Word_quotes","Word_non_quotes","Date","King_Count","King_Rel_Freq","Queen_Count","Queen_Rel_Freq"
+"alice","Alice's Adventures in Wonderland",12,26472,10278,16194,"1865",61,2304.32,68,2568.75
+"amulet","The Story of the Amulet",15,68906,29081,39825,"1906",41,595.01,111,1610.89
+"brass","The Brass Bottle",19,69559,40115,29444,"1900",4,57.51,5,71.88
+"cuckoo","The Cuckoo Clock",12,37126,16022,21104,"1877",15,404.03,10,269.35
+"daisy","The Daisy Chain",58,298304,133574,164730,"1856",14,46.93,5,16.76
+"dominics","The Fifth Form at Saint Dominic's",39,110400,35821,74579,"1887",1,9.06,1,9.06
+"dove","The Dove in the Eagle's Nest",26,109143,37626,71517,"1866",56,513.09,3,27.49
+"dragons","The Book of Dragons",9,42141,9677,32464,"1899",53,1257.68,38,901.73
+"duke","The Little Duke",13,40911,14758,26153,"1864",128,3128.74,21,513.31
+"eric","Eric",30,93515,27000,66515,"1858",1,10.69,1,10.69
+"five","Five Children and It",11,53419,20470,32949,"1906",4,74.88,1,18.72
+"glass","Through the Looking-Glass",12,29395,14568,14827,"1871",61,2075.18,178,6055.45
+"goldenage","The Golden Age",19,36115,7377,28738,"1895",2,55.38,3,83.07
+"holiday","Holiday House",19,78830,33482,45348,"1839",4,50.74,2,25.37
+"howwhy","Madam How and Lady Why",14,74196,2702,71494,"1870",2,26.96,6,80.87
+"jungle","The Jungle Book",1,51090,17552,33538,"1894",11,215.31,1,19.57
+"kidnap","Kidnapped",31,81454,25524,55930,"1886",30,368.31,2,24.55
+"leila","Leila at Home",20,63019,40109,22910,"1870",1,15.87,10,158.68
+"meg","Little Meg's Children",14,22659,5294,17365,"1868",5,220.66,2,88.27
+"moonfleet","Moonfleet",20,83296,15609,67687,"1898",11,132.06,9,108.05
+"mopsa","Mopsa the Fairy",17,41009,13958,27051,"1869",5,121.92,113,2755.49
+"mulgars","The Three Mulla-mulgars",23,67834,15864,51970,"1910",7,103.19,17,250.61
+"overtheway","Mrs. Overtheway's Remembrances",1,54335,39825,14510,"1869",2,36.81,1,18.4
+"pan","Peter Pan",17,47298,9811,37487,"1911",2,42.29,1,21.14
+"peasant","The Peasant and the Prince",20,59084,4815,54269,"1841",359,6076.1,286,4840.57
+"prigio","Prince Prigio",20,17969,4070,13899,"1889",81,4507.76,34,1892.15
+"princess","The Princess and the Goblin",32,51518,16780,34738,"1872",126,2445.75,61,1184.05
+"quatermain","Allan Quatermain",26,106476,21711,84765,"1887",26,244.19,80,751.34
+"redclyffe","The Heir of Redclyffe",44,234688,90095,144593,"1853",15,63.91,6,25.57
+"rose","The Rose and the Ring",20,29235,9220,20015,"1855",172,5883.36,83,2839.06
+"secret","The Secret Garden",27,80841,31539,49302,"1911",5,61.85,1,12.37
+"seekers","The Story of the Treasure Seekers",17,52827,12637,40190,"1899",1,18.93,4,75.72
+"solomons","King Solomon's Mines",22,82261,24492,57769,"1885",188,2285.41,4,48.63
+"stalky","Stalky & Co.",10,65653,39772,25881,"1899",183,2787.38,1,15.23
+"tapestry","The Tapestry Room",12,49552,29621,19989,"1879",23,464.16,21,423.8
+"toadylion","The Surprising Adventures of Sir Toady Lion With Those of General Napoleon Smith",40,65590,14935,50655,"1897",9,137.22,1,15.25
+"tombrown","Tom Brown's Schooldays",18,105646,26176,79470,"1857",15,141.98,1,9.47
+"unlikely","Nine Unlikely Tales",1,44476,11560,32916,"1901",224,5036.42,52,1169.17
+"water","The Water-Babies",8,68350,14034,54316,"1863",13,190.2,10,146.31
+"willows","The Wind in the Willows",12,58713,22356,36357,"1908",2,34.06,2,34.06
+"wind","At the Back of the North Wind",38,88722,31817,56905,"1871",11,123.98,6,67.63
+"winning","Winning His Spurs",25,96267,34407,61860,"1882",354,3677.27,16,166.2
+"woodmagic","Wood Magic",18,102997,47140,55857,"1881",153,1485.48,5,48.55
