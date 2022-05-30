@@ -6,3 +6,4 @@ This folder contains files with links and resources for the Leeds Workshops on 2
 The following sessions will use this repo:
 
 1. Using Methods from Corpus Linguistics on Historical Texts
+2. Data Visualisation
