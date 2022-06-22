@@ -11,6 +11,8 @@ Add the Encyclopedia of Shakespeare's Language Corpora to your CQPweb account (e
 https://wp.lancs.ac.uk/shakespearelang/project-resources/access/
 
 
+LOG IN HERE: https://cqpweb.lancs.ac.uk/
+
 *Useful links for more information*:
 1. Information about the ESC: https://wp.lancs.ac.uk/shakespearelang/
 2. Video about tagging in corpus linguistics: https://youtu.be/lP6YFve1f-Y?t=1697 (starts at the correct point)
