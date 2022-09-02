@@ -1,6 +1,20 @@
 # QMLHS
 Session links and resources for the QMLHS workshops
 
+## Leicester September 2022
+
+This folder contains files with links and resources for the Leicester Workshops in September.
+
+
+The following sessions will use this repo:
+
+1. Using Methods from Corpus Linguistics on Historical Texts
+2. Data Visualisation
+3. Workflow Pipelines with Orange3 (and R)
+
+
+## Resources for Leeds sessions 21st-22nd June:
+
 The QMLHS Website is available here: http://gabrielegan.com/QMLHS/ (updated as of 20.06.22)
 
 This folder contains files with links and resources for the Leeds Workshops on 21st and 22nd June.
