@@ -17,7 +17,7 @@ LOG IN HERE: https://cqpweb.lancs.ac.uk/
 1. Information about the ESC: https://wp.lancs.ac.uk/shakespearelang/
 2. Video about tagging in corpus linguistics: https://youtu.be/lP6YFve1f-Y?t=1697 (starts at the correct point)
 3. Information about VARD: http://ucrel.lancaster.ac.uk/vard/about/
-4. The Part of speech tagset taglist is available here (CLAWS6): https://ucrel.lancs.ac.uk/claws6tags.html
+4. The Part of speech tagset taglist is available here (CLAWS7): https://ucrel.lancs.ac.uk/claws7tags.html
 5. ESC: Enhanced Shakespeare Corpus First Folio Plus manual available here: http://wp.lancs.ac.uk/shakespearelang/files/2022/01/ESC-First-Folio-Plus-Manual.pdf
 
 *Other corpus software/corpora*
