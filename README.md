@@ -1,29 +1,8 @@
 # QMLHS
-Session links and resources for the QMLHS workshops
+Session links and resources for the QMLHS workshops:
+### September update: *Please find all the PowerPoints used at the sessions uploaded into the respective folder for the session. The PowerPoints are all saved as .pdf.*
 
-## Leicester September 2022
-
-This folder contains files with links and resources for the Leicester Workshops in September.
-
-
-The following sessions will use this repo:
-
-1. Using Methods from Corpus Linguistics on Historical Texts
-2. Data Visualisation
-3. Workflow Pipelines with Orange3 (and R)
-
-
-## Resources for Leeds sessions 21st-22nd June:
-
-The QMLHS Website is available here: http://gabrielegan.com/QMLHS/ (updated as of 20.06.22)
-
-This folder contains files with links and resources for the Leeds Workshops on 21st and 22nd June.
-
-The following sessions will use this repo:
-
-1. Using Methods from Corpus Linguistics on Historical Texts
-2. Data Visualisation
-
+## More links/info/resources:
 ## *'I want to know more about Corpus Linguistics after the session':*
 
 *There are a number of online courses available for free at Lancaster university*
@@ -40,3 +19,24 @@ The following sessions will use this repo:
 3. XML/XQuery: https://www.w3schools.com/xml/xquery_intro.asp (this is a good website for general programming advice, and offers step-by-step instructions through XQuery commands and usage)
 4. Excel: https://www.w3schools.com/excel/index.php (again, the step-by-step guide to elements in Excel is a useful reference guide)
 5. Historical Thesaurus for diachronic tracking of terms: https://ht.ac.uk/ (Project linked to OED)
+
+## Leicester September 2022
+This folder contains files with links and resources for the Leicester Workshops in September.
+
+The following Leicester sessions use this repo:
+
+1. Using Methods from Corpus Linguistics on Historical Texts
+2. Data Visualisation
+3. Workflow Pipelines with Orange3 (and R)
+
+
+## Resources for Leeds sessions 21st-22nd June:
+The QMLHS Website is available here: http://gabrielegan.com/QMLHS/ (updated as of 20.06.22)
+This folder contains files with links and resources for the Leeds Workshops on 21st and 22nd June.
+
+The following sessions use this repo:
+
+1. Using Methods from Corpus Linguistics on Historical Texts
+2. Data Visualisation
+
+Any issues/questions with this GitHub or following the sessions, please direct them to me at e.roberts9@lancaster.ac.uk. I will try and respond promptly, but please bear with me if you don't get a response immediately.
